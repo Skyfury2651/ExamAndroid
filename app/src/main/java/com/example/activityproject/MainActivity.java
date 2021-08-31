@@ -57,9 +57,9 @@ public class MainActivity extends AppCompatActivity implements IOnChildItemClick
     }
 
     private void initData() {
-        ContactModel contact = new ContactModel("Con vit con", "0327350489", R.drawable.ic_avatar1);
+        ContactModel contact = new ContactModel("Con vit con", "05837882362", R.drawable.ic_avatar1);
         listContacts.add(contact);
-        contact = new ContactModel("Con vit con 1", "0327350489", R.drawable.ic_avatar1);
+        contact = new ContactModel("Con vit con 1", "05837882362", R.drawable.ic_avatar1);
         listContacts.add(contact);
     }
 
